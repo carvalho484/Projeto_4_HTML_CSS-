@@ -2,7 +2,7 @@
 
 ---
 
-## Visão Geral / Descrição
+## Descrição
 Projeto de **Lista de Contatos** desenvolvido com **HTML5** e **CSS3**.  
 Permite exibir contatos com foto, nome, email e botões para **editar** ou **deletar**.  
 O projeto foca em **layout responsivo**, **Flexbox**, **estilização de imagens** e **tipografia personalizada**.
@@ -18,7 +18,7 @@ O projeto foca em **layout responsivo**, **Flexbox**, **estilização de imagens
 
 ---
 
-## Instalação / Como Executar
+## Como Executar
 1. Clone este repositório:
 ```bash
 git clone <https://github.com/carvalho484/Projeto_4_HTML_CSS-.git>
