@@ -21,7 +21,7 @@ O projeto foca em **layout responsivo**, **Flexbox**, **estilização de imagens
 ## Instalação / Como Executar
 1. Clone este repositório:
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone <https://github.com/carvalho484/Projeto_4_HTML_CSS-.git>
 ```
 2. Abra o arquivo index.html em qualquer navegador moderno.
 
