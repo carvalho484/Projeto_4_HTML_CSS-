@@ -25,7 +25,7 @@ git clone <URL_DO_REPOSITORIO>
 ```
 2. Abra o arquivo index.html em qualquer navegador moderno.
 
-3. Para adicionar novos contatos, copie um '<li class="list">...</li>' dentro da '<ul class="container_list">' e atualize a imagem e informações.
+3. Para adicionar novos contatos, copie um <li class="list">...</li> dentro da <ul class="container_list"> e atualize a imagem e informações.
 
 ## Funcionalidades
 - Lista de contatos com:
