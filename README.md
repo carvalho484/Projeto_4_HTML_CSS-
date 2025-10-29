@@ -15,7 +15,7 @@ O projeto foca em **layout responsivo**, **Flexbox**, **estilização de imagens
 - Flexbox  
 - Google Fonts:
   - Roboto
-  - 
+
 ---
 
 ## Instalação / Como Executar
